@@ -8,11 +8,12 @@
 - 📫 How to reach me **ethanespina@gmail.com**
 
 <h3 align="left">
- Connect with me:
+ Connect with me: 
+</h3>
   <a href="https://linkedin.com/in/ethan-raul-estrada-espina-149a771a7" target="blank">
     <img style="vertical-align:middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ethan-raul-estrada-espina-149a771a7" height="30" width="30" />
   </a>
-</h3>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
