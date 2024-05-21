@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ethan Estrada</h1>
 <h3 align="center">Frontend/Backend/Mobile developer</h3>
 
-- 🌱 I’m currently learning **Python and Unity**
+- 🌱 I’m currently learning **Unity**
 
 - 💬 Ask me about **Coffee**
 
