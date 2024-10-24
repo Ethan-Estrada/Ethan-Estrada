@@ -10,7 +10,7 @@
 <h3 align="left">
  Connect with me: 
 </h3>
-  <a href="https://www.linkedin.com/in/ethan-estrada-149a771a7/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/ethan-estrada-149a771a7/" target="blank" rel="noopener noreferrer">
     <img style="vertical-align:middle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ethan-raul-estrada-espina-149a771a7" height="30" width="30" />
   </a>
 
