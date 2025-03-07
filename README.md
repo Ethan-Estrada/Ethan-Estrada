@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ethan Estrada</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **Three.js**
 
 - 💬 Ask me about **Coffee**
 
